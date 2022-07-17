@@ -11,35 +11,50 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
-  organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
-
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: "F# from the Ground Up"
+  timeline: "January 2022"
   organization:
     name: Udemy
     url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
- 
+  courseOverview: "Launch your journey into .NET's functional-first programming language. Learn to create and run .NET F# programs from scratch, use F# data types to model daya and leverage F# collection functions to build data processing pipelines."
+  certificateURL: "https://www.udemy.com/certificate/UC-29d8de38-3833-4582-ac54-90b306e6e3ef/"
+
+- name: "C++: Advanced Topics"
+  timeline: "October 2020"
+  organization:
+    name: LinkedIn
+    url: https://www.linkedin.com/
+  courseOverview: "Want to deepen your understanding of C++? In this course, explore some of the more complex aspects of this core programming language, from smart pointers to move semantics, from lambda functions to working with unit testing libraries and creating a custom string library."
+  certificateURL: "https://www.linkedin.com/learning/certificates/222bc2e463460fe72d614cd906516be7024076d8eb09ce1102bd6cd589b2b4ab"
+
+- name: Full Stack Developer Nanodegree
+  timeline: "June 2020"
+  organization:
+    name: Udacity
+    url: https://www.udacity.com/
+  courseOverview: Learn to design and develop powerful modern web applications that form the foundation for the apps, websites, and systems that people and businesses use every day.
+  certificateURL: "https://confirm.udacity.com/ZCLK5VLX"
+
+- name: "Learn How To Code: Google's Go (golang) Programming Language"
+  timeline: "June 2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: "This course is the ultimate comprehensive resource for learning the Go Programming Language. You'll learn beginner and advanced concepts, concurrency, channels, benchmarking, testing, error handling, documentation and much more."
+  certificateURL: "https://www.ude.my/UC-915e500e-f498-4932-a6de-eb88a47f4ec4/"
+
+- name: React Nanodegree
+  timeline: "May 2020"
+  organization:
+    name: Udacity
+    url: https://www.udacity.com/
+  courseOverview: Master the job-ready skills you need to be a successful React developer and start learning how to build declarative user interfaces for the web with React and manage state more predictably in your applications with Redux.
+  certificateURL: "https://confirm.udacity.com/P5SJSRR"
+
+- name: "The Web Development Bootcamp"
+  timeline: "April 2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com
+  courseOverview: "The only course you need to learn web development - HTML, CSS, JS, Node, and More! You'll learn the ins and outs of HTML5, CSS3 and Modern JavaScript while making real web applications using cutting-edge technologies."
+  certificateURL: "https://www.ude.my/UC-87dfef83-7e73-4080-a554-f38b5243501e"
