@@ -8,6 +8,8 @@ image: "images/author/samuel.jpeg"
 contactInfo:
   email: "me@samuel-adekunle.software"
   phone: "+447493735158"
+  github: "samuel-adekunle"
+  linkedin: "https://linkedin.com/in/samuel-adekunle"
 
 # some summary about what you do
 summary:
