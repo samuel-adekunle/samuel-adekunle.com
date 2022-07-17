@@ -12,7 +12,7 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: C++
-  logo: /images/sections/skills/c++.png
+  logo: /images/sections/skills/cpp.png
   summary: "Highly proficient in C/C++ programming. Used for contest programming, problem-solving and most university projects."
 
 - name: Golang
