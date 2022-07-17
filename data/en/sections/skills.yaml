@@ -12,40 +12,40 @@ section:
 skills:
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Highly proficient in C/C++ programming. Used for contest programming, problem solving and most university projects."
+  summary: "Highly proficient in C/C++ programming. Used for contest programming, problem-solving and most university projects."
 
 - name: Golang
   logo: /images/sections/skills/go.png
-  summary: "Currently using as the main language for professional development. Capable of writing scalable, testable, and maintainable software."
+  summary: "Currently used as the primary language for professional development. Capable of writing scalable, testable, and maintainable software."
   url: "https://golang.org/"
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: ""
+  summary: "Language of choice for writing automation and performing data analysis. Have experience using for machine learning tasks."
   url: "https://www.python.org/"
 
 - name: Full Stack Development
   logo: /images/sections/skills/full-stack.png
-  summary: "iOS + Web"
+  summary: "Able to design and develop both the backend and frontend of Web and iOS applications. Experienced using React and Cocoa."
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud-computing.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most major clouds such as Google Cloud, Amazon Web Services, Microsoft Azure etc."
 
 - name: DevOps
   logo: /images/sections/skills/devops.png
-  summary: ""
+  summary: "Capable of managing code testing and deployment pipelines, and developing automation and integrations which help shorten the development life cycle."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Currently used as the main operating system for development and application deployment. Comfortable writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab and BitBucket."
   url: "https://git-scm.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Write most new applications as Docker containers. Experienced with multi-stage, multi-arch build process and deployment of dockerized applications."
   url: "https://www.docker.com/"
