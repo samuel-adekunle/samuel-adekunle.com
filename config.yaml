@@ -31,6 +31,16 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: "images/stationary.jpg"
+
+  logo:
+    favicon: "images/author/samuel.jpeg"
+
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
+
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/samuel-adekunle/samuel-adekunle.com
   gitBranch: main
