@@ -18,7 +18,7 @@ company:
 resume: "cv.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate full stack software engineer with 2 years of working experience. I have experiece designing, building and running operations for cloud native Web and iOS applications on Google Cloud and AWS. My current interests are cloud computing and distributed systems.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -41,7 +41,7 @@ socialLinks:
 badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
@@ -50,9 +50,24 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Communication
+  percentage: 90
   color: orange
+
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 85
+  color: green
+
+- type: soft-skill-indicator
+  name: Time Management
+  percentage: 85
+  color: pink
+
+- type: soft-skill-indicator
+  name: Work Ethic
+  percentage: 85
+  color: "#993300"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
