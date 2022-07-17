@@ -15,7 +15,7 @@ experiences:
     url: "https://google.com"
     location: London, England, United Kingdom
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Google LLC is an American multinational technology company that focuses on artificial intelligence, search engine technology, online advertising, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics.
   positions:
   - designation: Software Engineer Intern
     start: April 2022
@@ -23,70 +23,63 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Refactored black box monitoring setup for [Google Compute Engine](https://cloud.google.com/compute/) using **Bash** scripts, making it easier to deploy new configurations, which increased testing coverage and confidence in the product.
+    - Investigated and resolved several long-running (1 year+) issues with the internal **Python** monitoring and alerting framework, improving the affected failure rates from 100% to less than 1%.
 
 - company:
     name: The Choral Hub
     url: "https://thechoralhub.com"
     location: London, England, United Kingdom
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: The Choral Hub is an international community of thinkers, doers, and music collaborators who’ve witnessed first-hand how singing for wellness creates a positive impact. They developed the gamified singing app 'tchzant'.
   positions:
   - designation: Lead Developer
-    start: March 2016
-    end: May 2017
+    start: July 2021
+    end: March 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Day-to-day running of technology department of company which included managing daily scrum meetings, updating the product backlog and epic planning.
+    - Developed an iOS only beta version of [Tchzant](https://tchzant.app) in **Swift** which ran on a serverless backend infrastructure built in **Python** running on **Google Cloud**.
+    - Designed a DevOps pipeline integrating **Jira**, **GitHub** and **Circle CI** that automated previously manually done workflows which resulted in a massive surge in productivity and drop in lead time.
 
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: July 2020
+    end: June 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed a Web, iOS and Android prototype with **React** and **Firebase** for a vocal training app which helped raise money in subsequent funding rounds for further development.
+    - Built and maintained the company’s landing page with **Next.js** which became a key source of sign ups on the app’s beta waitlist and tracked key user engagement metrics using **Google Analytics**.
+    - Developed an iOS only alpha version of Tchzant in **Swift** with a **Firebase** backend, and ran multiple closed trials with external users to track and improve their experiences over time.
 
 - company:
     name: Imperial Junior Solutions
     url: "https://imperialjs.co.uk"
     location: London, England, United Kingdom
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Imperial Junior Solutions, the Junior Enterprise of Imperial College London, is a non-profit consulting company which provides technical and engineering services to companies. IJS operates as a student-run consultancy and aims to deliver high quality services while providing students with the opportunity to apply their knowledge and gain valuable experience.
   positions:
   - designation: President, Executive Committee
-    start: Jun 2015
-    end: Jan 2016
+    start: June 2021
+    end: Jan 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Setting the goals, objectives and KPIs of the organisation, keeping everyone on track to achieve these goals and handling the legal aspects of running a company in the UK.
 
 - company:
     name: Generating Genius
-    url: "https://imperialjs.co.uk"
+    url: "https://www.generatinggenius.org.uk/"
     location: London, England, United Kingdom
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Generating Genius has the vision of a thriving and diverse STEM (Science, Technology, Engineering and Mathematics) community in higher education and industry which is inclusive and representative of the UK population.
   positions:
   - designation: Student Ambassador
-    start: Jun 2015
-    end: Jan 2016
+    start: Oct 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Recruitment of new students into programmes e.g. "Black Women into Tech" programme.
+    - Mentoring students and giving career advice.
 
 - company:
-    name: Imperial ACS
-    url: "https://imperialjs.co.uk"
+    name: Imperial College African Caribbean Society
+    url: "https://icacs.co.uk"
     location: London, England, United Kingdom
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
   - designation: Website Administrator
-    start: Jun 2015
-    end: Jan 2016
+    start: Jun 2020
+    end: May 2021
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Redesigned the society's website using **JavaScript** and **Golang**. The redesign included an events management platform, a CV platform and live chat for communicating with people directly on the site.
