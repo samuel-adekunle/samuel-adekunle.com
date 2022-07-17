@@ -2,7 +2,7 @@
 section:
   name: Education
   id: education
-  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  template: sections/education-alt.html # Use "sections/education-alt.html for alternate template.
   enable: true
   weight: 4
   showOnNavbar: true
@@ -10,81 +10,41 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+- name: MEng Electronic and Information Engineering
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2019-2023
   institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+    name: Imperial College London
+    url: "https://www.imperial.ac.uk/"
+  takenCourses: #(optional)
+  # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 2
+    courses:
+    - name: 94% second year compiler coursework; built a C99 to MIPS I compiler in C++ and Golang.
+      achieved: 4
+      outOf: 4
+    - name: 87% first year project; built a SPICE circuit simulator and graphing tool in C++ and Python.
+      achieved: 4
+      outOf: 4
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  - Website Administrator 2021, Imperial College African Caribbean Society.
+  - Active member of Imperial Data Science Society.
+  - 1st place Imperial Novices Debating Competition 2019.
+- name: Cambridge International A Level and GCSE 
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2017-2019
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: The 16 Plus School
+    url: "#"
+  takenCourses: #(optional)
+  # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 2
+    courses:
+    - name: 3 A*s at A Level in Maths, Further Maths and Physics; scored highest in Nigeria for all three subjects
+      achieved: 4
+      outOf: 4
+    - name: 7 A*s at GCSE; scored highest in Nigeria for Additional Maths and ICT
+      achieved: 4
+      outOf: 4
