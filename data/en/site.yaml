@@ -1,0 +1,10 @@
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio of Samuel Adekunle.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Samuel Adekunle Portfolio
+  type: website
+  description: Portfolio of Samuel Adekunle.
+  image: images/author/samuel.jpeg
+  url: https://hugo-toha.github.io

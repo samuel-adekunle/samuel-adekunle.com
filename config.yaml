@@ -1,7 +1,7 @@
 baseURL: https://samuel-adekunle.com
 
 languageCode: en-gb
-title: "Samuel Adekunle"
+title: "Samuel Adekunle Portfolio"
 theme: "toha"
 
 # Manage languages
@@ -11,7 +11,7 @@ languages:
     languageName: English
     weight: 1
 
-# Control TOC depth
+# Control TOC depth0
 markup:
   tableOfContents:
     startLevel: 2
@@ -36,10 +36,10 @@ params:
   gitBranch: main
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # Provide newsletter configuration. 
   # This feature has been implemented for Mailchimp only for now.
@@ -48,6 +48,6 @@ params:
     # specify whether you want to display the newsletter form 
     enable: false
     # specify which newsletter provider you want to use
-    provider: TODO
+    provider: mailchimp
     # specify the target URL for the subscription form
-    mailchimpURL: TODO
+    mailchimpURL: n/a
