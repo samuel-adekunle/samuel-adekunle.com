@@ -31,7 +31,7 @@ enableEmoji: true
 
 # Site parameters
 params:
-  background: "images/stationary.jpg"
+  background: "images/cover.jpg"
 
   logo:
     favicon: "images/author/samuel.jpeg"
