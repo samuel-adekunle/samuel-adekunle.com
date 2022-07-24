@@ -36,7 +36,7 @@ projects:
   timeline: "March 2021"
   repo: https://github.com/samuel-adekunle/Colloquy-BGNHACK21
   # url: "https://icacs.co.uk"
-  summary: Open source, minimal, command line, static site generator.
+  summary: Chatbot builder for small businesses.
   tags: ["hobby", "hackathon", "javascript"]
 
 - name: C-MIPS Compiler
@@ -45,7 +45,7 @@ projects:
   timeline: "March 2021"
   repo: https://github.com/samuel-adekunle/C-MIPS-Compiler
   # url: "https://icacs.co.uk"
-  summary: Open source, minimal, command line, static site generator.
+  summary: C99 to MIPS assembly compiler.
   tags: ["university", "compiler", "c++"]
 
 - name: Pedometer
@@ -54,7 +54,7 @@ projects:
   timeline: "March 2021"
   repo: https://github.com/samuel-adekunle/Pedometer
   # url: "https://icacs.co.uk"
-  summary: Open source, minimal, command line, static site generator.
+  summary: Step counting API and React dashboard.
   tags: ["university", "golang", "javascript"]
 
 - name: Image Denoiser
@@ -63,7 +63,7 @@ projects:
   timeline: "August 2020"
   repo: https://github.com/samuel-adekunle/Autoencoders
   # url: "https://icacs.co.uk"
-  summary: Open source, minimal, command line, static site generator.
+  summary: Removing noise from images with Autoencoders.
   tags: ["hobby", "machine learning", "python"]
 
 - name: Face Mask Detector
@@ -72,7 +72,7 @@ projects:
   timeline: "July 2020"
   # repo: https://github.com/samuel-adekunle/jamgo
   url: https://samuel-adekunle.github.io/face-detector/
-  summary: Open source, minimal, command line, static site generator.
+  summary: COVID-19 pandemic inspired face mask detector trained using Google's [Teachable Machine](https://teachablemachine.withgoogle.com/).
   tags: ["hobby", "machine learning", "python"]
 
 - name: ICACS
@@ -93,11 +93,11 @@ projects:
   summary: Open source, minimal, command line, static site generator.
   tags: ["hobby", "golang", "open-source"]
 
-- name: SPICE Simulator
+- name: SPICE Circuit Simulator
   logo: /images/sections/projects/jam.png
   role: Contributor
   timeline: "June 2020"
   repo: https://github.com/samuel-adekunle/SPICE-Circuit-Simulator
   # url: https://samuel-adekunle.github.io/face-detector/
-  summary: Open source, minimal, command line, static site generator.
+  summary: SPICE compliant electrical circuit simulator.
   tags: ["university", "c++", "circuit simulator"]
