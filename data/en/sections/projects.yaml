@@ -1,64 +1,103 @@
-# # section information
-# section:
-#   name: Projects
-#   id: projects
-#   enable: true
-#   weight: 5
-#   showOnNavbar: true
-#   # Can optionally hide the title in sections
-#   # hideTitle: true
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
-# # filter buttons
-# buttons:
-# - name: All
-#   filter: "all"
-# - name: Professional
-#   filter: "professional"
-# - name: Academic
-#   filter: "academic"
-# - name: Hobby
-#   filter: "hobby"
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: University
+  filter: "university"
+- name: Hobby
+  filter: "hobby"
 
-# # your projects
-# projects:
-# - name: Kubernetes
-#   logo: /images/sections/projects/kubernetes.png
-#   role: Contributor
-#   timeline: "March 2018 - Present"
-#   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-#   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-#   summary: Production-Grade Container Scheduling and Management.
-#   tags: ["professional", "kubernetes", "cloud"]
+# your projects
+projects:
+- name: Mars Rover
+  logo: /images/sections/projects/rover.png
+  role: Contributor
+  timeline: "June 2021"
+  repo: https://github.com/samuel-adekunle/Mars_Rover
+  # url: "https://icacs.co.uk"
+  summary: Autonomous rover with obstacle detection and path routing. 
+  tags: ["university", "typescript", "golang"]
 
-# - name: Tensorflow
-#   logo: /images/sections/projects/tensorflow.png
-#   role: Developer
-#   timeline: "Jun 2018 - Present"
-#   repo: https://github.com/tensorflow/tensorflow
-#   #url: ""
-#   summary: An Open Source Machine Learning Framework for Everyone.
-#   tags: ["professional", "machine-learning"]
+- name: Colloquy
+  logo: /images/sections/projects/jam.png
+  role: Developer
+  timeline: "March 2021"
+  repo: https://github.com/samuel-adekunle/Colloquy-BGNHACK21
+  # url: "https://icacs.co.uk"
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["hobby", "hackathon", "javascript"]
 
-# - name: A sample academic paper
-#   role: Team Lead
-#   timeline: "Jan 2017 - Nov 2017"
-#   url: "https://www.example.com"
-#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-#   tags: ["academic","iot"]
+- name: C-MIPS Compiler
+  logo: /images/sections/projects/jam.png
+  role: Contributor
+  timeline: "March 2021"
+  repo: https://github.com/samuel-adekunle/C-MIPS-Compiler
+  # url: "https://icacs.co.uk"
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["university", "compiler", "c++"]
 
-# - name: Nocode
-#   logo: /images/sections/projects/no-code.png
-#   role: Nothing
-#   timeline: "Oct 2019 - Dec 2019"
-#   repo: https://github.com/kelseyhightower/nocode
-#   #url: ""
-#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-#   tags: ["hobby", "fun"]
+- name: Pedometer
+  logo: /images/sections/projects/jam.png
+  role: Contributor
+  timeline: "March 2021"
+  repo: https://github.com/samuel-adekunle/Pedometer
+  # url: "https://icacs.co.uk"
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["university", "golang", "javascript"]
 
-# - name: Toha
-#   logo: /images/sections/projects/toha.png
-#   role: Owner
-#   timeline: "Jun 2019 - Present"
-#   repo: https://github.com/hossainemruz/toha
-#   summary: A Hugo theme for personal portfolio.
-#   tags: ["hobby","hugo","theme","professional"]
+- name: Image Denoiser
+  logo: /images/sections/projects/jam.png
+  role: Owner
+  timeline: "August 2020"
+  repo: https://github.com/samuel-adekunle/Autoencoders
+  # url: "https://icacs.co.uk"
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["hobby", "machine learning", "python"]
+
+- name: Face Mask Detector
+  logo: /images/sections/projects/jam.png
+  role: Owner
+  timeline: "July 2020"
+  # repo: https://github.com/samuel-adekunle/jamgo
+  url: https://samuel-adekunle.github.io/face-detector/
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["hobby", "machine learning", "python"]
+
+- name: ICACS
+  logo: /images/sections/projects/icacs.png
+  role: Website Administrator
+  timeline: "July 2020"
+  # repo: https://github.com/kelseyhightower/nocode
+  url: "https://icacs.co.uk"
+  summary: Official Website for the Imperial African Carribean Society.
+  tags: ["professional", "golang", "javascript"]
+
+- name: Jamgo
+  logo: /images/sections/projects/jam.png
+  role: Owner
+  timeline: "July 2020"
+  repo: https://github.com/samuel-adekunle/jamgo
+  # url: "https://icacs.co.uk"
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["hobby", "golang", "open-source"]
+
+- name: SPICE Simulator
+  logo: /images/sections/projects/jam.png
+  role: Contributor
+  timeline: "June 2020"
+  repo: https://github.com/samuel-adekunle/SPICE-Circuit-Simulator
+  # url: https://samuel-adekunle.github.io/face-detector/
+  summary: Open source, minimal, command line, static site generator.
+  tags: ["university", "c++", "circuit simulator"]
