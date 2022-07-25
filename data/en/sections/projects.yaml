@@ -31,7 +31,7 @@ projects:
   tags: ["university", "typescript", "golang"]
 
 - name: Colloquy
-  logo: /images/sections/projects/jam.png
+  logo: /images/sections/projects/chatbot.png
   role: Developer
   timeline: "March 2021"
   repo: https://github.com/samuel-adekunle/Colloquy-BGNHACK21
@@ -40,7 +40,7 @@ projects:
   tags: ["hobby", "hackathon", "javascript"]
 
 - name: C-MIPS Compiler
-  logo: /images/sections/projects/jam.png
+  logo: /images/sections/projects/compiler.png
   role: Contributor
   timeline: "March 2021"
   repo: https://github.com/samuel-adekunle/C-MIPS-Compiler
@@ -49,7 +49,7 @@ projects:
   tags: ["university", "compiler", "c++"]
 
 - name: Pedometer
-  logo: /images/sections/projects/jam.png
+  logo: /images/sections/projects/pedometer.png
   role: Contributor
   timeline: "March 2021"
   repo: https://github.com/samuel-adekunle/Pedometer
@@ -58,7 +58,7 @@ projects:
   tags: ["university", "golang", "javascript"]
 
 - name: Image Denoiser
-  logo: /images/sections/projects/jam.png
+  logo: /images/sections/projects/neural-network.png
   role: Owner
   timeline: "August 2020"
   repo: https://github.com/samuel-adekunle/Autoencoders
@@ -67,7 +67,7 @@ projects:
   tags: ["hobby", "machine learning", "python"]
 
 - name: Face Mask Detector
-  logo: /images/sections/projects/jam.png
+  logo: /images/sections/projects/facemask.png
   role: Owner
   timeline: "July 2020"
   # repo: https://github.com/samuel-adekunle/jamgo
@@ -94,7 +94,7 @@ projects:
   tags: ["hobby", "golang", "open-source"]
 
 - name: SPICE Circuit Simulator
-  logo: /images/sections/projects/jam.png
+  logo: /images/sections/projects/circuit.png
   role: Contributor
   timeline: "June 2020"
   repo: https://github.com/samuel-adekunle/SPICE-Circuit-Simulator
